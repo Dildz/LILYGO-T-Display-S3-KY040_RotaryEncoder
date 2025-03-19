@@ -1,6 +1,6 @@
 LILYGO T-Display-S3 KY-040 Rotary Encoder Module Project
 
-This sketch read the rotary encoder module and displays the value along with a slider on the built-in
+This sketch reads the rotary encoder module and displays the value along with a slider on the built-in
 screen using the TFT_eWidget library. The counter value and slider position are updated in real-time.
 
 Description:
